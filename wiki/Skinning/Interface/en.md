@@ -563,6 +563,23 @@ Notes:
 - This mod is available in the cuttingedge stream only.
 - This element is an [osu!standard](/wiki/osu!standard)-specific mod.
 
+
+---
+
+`selection-modallowed.png`
+
+ no official image in stable
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+- shows a icon of the image when you allow freemod in multis or play a map with any mod selected
+- no official mod icon in standard
+- not exactly a mod
+
+
+
 ## Offset wizard
 
 *Main page: [Offset Wizard](/wiki/Offset_Wizard)*
